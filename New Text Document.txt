@@ -1,0 +1,7 @@
+dom behivour  and css interaction 
+
+css property transitionend
+
+control of audio method 
+play 
+current time 
