@@ -1,1 +1,7 @@
-
+first of all css tranform property and basic of transition 
+after that in the js file the new date function to get all the info about date 
+get seconds min... from the const i made why const cause this isn't changing 
+i calc the deg of sec ..min .. hours change the style in the main element 
+there is a bug when the hand reach 12 cause the rotation begin from the start again so  lag happens in this section so to avoid it 
+i stoped transtion if seconds betweem 59 and 60   
+that it is good one :"
